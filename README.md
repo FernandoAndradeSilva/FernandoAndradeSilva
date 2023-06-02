@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<!--
-**FernandoAndradeSilva/FernandoAndradeSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Screensaver_Sequence](https://github.com/FernandoAndradeSilva/FernandoAndradeSilva/assets/39771380/ed8d42f2-7791-4497-b61b-4ae23aea110b)
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
